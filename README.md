@@ -1,6 +1,9 @@
 ## Express.js Expense Tracker
 This expense tracking application runs on an Express.js server and allows the user to log income and expenses.
 
+## Live Demo
+https://express-expense-tracker.vercel.app/
+
 ## Screenshots
 ![index](screenshot.jpg)
 
